@@ -1,0 +1,18 @@
+{"type":"search",
+  "results":[
+    {"criteria":{"lastName":"lastName1"},
+      "results":[
+        {"firstName":"name1","lastName":"lastName1"},
+        {"firstName":"name2","lastName":"lastName1"},
+        {"firstName":"name3","lastName":"lastName1"}]
+    },
+    {"criteria":{"minTimes":3,"productName":"name1"},
+      "results":[
+        {"firstName":"name1","lastName":"lastName1"}]},
+    {"criteria":{"minExpenses":5,"maxExpenses":7},
+      "results":[{"firstName":"name2","lastName":"lastName1"}]},
+    {"criteria":{"badCustomers":3},
+      "results":[
+        {"firstName":"name3","lastName":"lastName1"},
+        {"firstName":"name4","lastName":"lastName4"},
+        {"firstName":"name5","lastName":"lastName5"}]}]}

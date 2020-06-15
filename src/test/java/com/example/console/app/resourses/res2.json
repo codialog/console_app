@@ -1,0 +1,4 @@
+{"totalDays":5,
+  "avgExpenses":4.0,
+  "totalExpenses":8.0,
+  "customers":[{"purchases":[{"Name":"name2","expenses":2.0},{"Name":"name2","expenses":2.0}],"totalExpenses":4.0,"Name":"lastName1 name2"},{"purchases":[{"Name":"name1","expenses":1.0},{"Name":"name1","expenses":1.0},{"Name":"name1","expenses":1.0},{"Name":"name1","expenses":1.0}],"totalExpenses":4.0,"Name":"lastName1 name1"}],"type":"stat"}
